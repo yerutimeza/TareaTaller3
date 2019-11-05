@@ -1,5 +1,7 @@
  $("#btnCalcular").click(function(){
      Calcular();
+
+     alert("calculo realizado con exito");
      
  });
  function Calcular(){
